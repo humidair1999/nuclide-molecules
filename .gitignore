@@ -1,4 +1,7 @@
-.sass-cache
-*.css.map
-
 .DS_Store
+
+.sass-cache/
+
+# exclude all core nuclide library files, but leave molecules
+lib/atoms/
+lib/*.scss
