@@ -12,7 +12,8 @@
     > li {
         /* desktop styles */
 
-        @extend .float-left-on-desktop;
+        /* TODO: add lament configurator? */
+        /* @extend .float-left-on-desktop; */
 
         > a {
             @extend .d-b;
